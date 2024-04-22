@@ -81,7 +81,7 @@ LinkedIn : https://www.linkedin.com/in/4kumarabhishek/
 
 ## Project Link
 
-- [Live Link](https://food-plaza-23nj.onrender.com)
+- [Live Link](https://food-plaza-alpha.vercel.app/)
 
 ## Thank You
 
